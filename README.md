@@ -1,2 +1,2 @@
 # JAVASCRIPT_User_Info
-https://github.com/Wakygrace/JAVASCRIPT_User_Info.git
+https://wakygrace.github.io/JAVASCRIPT_User_Info/JavaScript/
